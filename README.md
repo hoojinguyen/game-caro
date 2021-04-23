@@ -1,4 +1,4 @@
-# game-caro
+# Game Caro
 
 ## Setup
 * __font__
